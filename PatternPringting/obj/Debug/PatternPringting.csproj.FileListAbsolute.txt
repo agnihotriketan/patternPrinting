@@ -1,0 +1,12 @@
+c:\users\kagnihotri\documents\visual studio 2012\Projects\PatternPringting\PatternPringting\bin\Debug\PatternPringting.exe.config
+c:\users\kagnihotri\documents\visual studio 2012\Projects\PatternPringting\PatternPringting\bin\Debug\PatternPringting.exe
+c:\users\kagnihotri\documents\visual studio 2012\Projects\PatternPringting\PatternPringting\bin\Debug\PatternPringting.pdb
+c:\users\kagnihotri\documents\visual studio 2012\Projects\PatternPringting\PatternPringting\obj\Debug\PatternPringting.csprojResolveAssemblyReference.cache
+c:\users\kagnihotri\documents\visual studio 2012\Projects\PatternPringting\PatternPringting\obj\Debug\PatternPringting.exe
+c:\users\kagnihotri\documents\visual studio 2012\Projects\PatternPringting\PatternPringting\obj\Debug\PatternPringting.pdb
+F:\Microsoft\14dec\17DEc\PatternPringting\PatternPringting\bin\Debug\PatternPringting.exe.config
+F:\Microsoft\14dec\17DEc\PatternPringting\PatternPringting\obj\Debug\PatternPringting.exe
+F:\Microsoft\14dec\17DEc\PatternPringting\PatternPringting\obj\Debug\PatternPringting.pdb
+F:\Microsoft\14dec\17DEc\PatternPringting\PatternPringting\bin\Debug\PatternPringting.exe
+F:\Microsoft\14dec\17DEc\PatternPringting\PatternPringting\bin\Debug\PatternPringting.pdb
+F:\Microsoft\14dec\17DEc\PatternPringting\PatternPringting\obj\Debug\PatternPringting.csprojResolveAssemblyReference.cache
